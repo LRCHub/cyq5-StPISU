@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "阿修羅ちゃん",
   "base_artist": "Ado",
-  "createdAt": "2025-12-03T12:29:33.820901Z",
+  "createdAt": "2026-03-18T19:21:13.582893Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -83,6 +83,15 @@
       "artist": "Ado",
       "has_synced": false,
       "path": "select/pl_01_阿修羅ちゃん_Ado.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "阿修羅ちゃん",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/localdb_01_阿修羅ちゃん_Ado.lrc",
+      "repo_name": "cyq5-StPISU"
     }
   ]
 }
